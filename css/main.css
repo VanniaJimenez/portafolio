@@ -1,0 +1,206 @@
+
+/* fondos*/
+
+.colorfondo1{
+	background-color: #027878;
+}
+
+.colorfondo2 {
+	background-color : #801638;
+}
+
+.colorfondo3 {
+	background-color: #581045;
+}
+
+/* header */
+	*{
+		font-family: 'Allerta Stencil', sans-serif !important;
+}
+
+.derecha {
+	margin-left: 45% !important;
+}
+.titulo {
+	display: inline-block;
+	font-size: 2em;
+	margin-top: 7%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+}
+
+.loguito {
+	height: 15%;
+	width: 12%;
+	margin-top: 5%;
+	margin-left: 7%;
+	border-radius: 30%;
+	
+}
+
+.parriba {
+	margin: 0%
+	padding: 0%;
+}
+/*inicio*/
+
+.manos {
+	margin-top: 30%;
+	 margin-bottom: 30%;
+	 display: block;
+
+}
+.manos4 {
+	width: 76.9%;
+	height: 76.9%;
+	margin-left: -20%;
+}
+.manos3 {
+	width: 81.4%;
+	height: 81.4%;
+}
+.manos2 {
+	margin-left: 22%;
+	width: 80%;
+	height: 80%;
+}
+
+.manos1 {
+	margin-left: 39%;
+	width: 85%;
+	height: 85%;
+}
+
+/*quien soy */
+.mifoto {
+	width: 50%;
+	height: 50%;
+	margin: 10%;
+	margin-left: 15%;
+	border-radius: 50%;
+	border: solid 5px black;
+}
+
+.quien {
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+.parrafo {
+	font-size: 1em;
+	margin-top: 20%;
+
+}
+
+
+.esp1{
+	margin-bottom: 5%;
+
+}
+
+/* proyectos*/ 
+.lit {
+	width: 60%;
+	height: 60%;
+	margin: 10%;
+	margin-left: 25%;
+
+}
+
+.blo {
+	display: block;
+}
+.sin {
+	margin-top: 60%;
+	height: 135%;
+	width: 135%;
+}
+
+.solo{
+	margin-left: 48%;
+}
+
+.punto {
+	margin-bottom: 15%;
+}
+
+
+
+/* habilidades */ 
+.mona {
+	width: 80%;
+	height: 80%;
+	border-radius:70%;
+	margin-top: 35%;
+	margin-bottom: 20%;
+	margin-left: 15%;
+}
+
+.boo {
+	width: 200%;
+	height: 200%;
+}
+
+.boos {
+	border-radius: 50%;
+	width: 250%;
+	height: 250%;
+}
+
+.booss{
+	border-radius: 50%;
+	width: 250%;
+	height: 450%;
+}
+.linea {
+	display: inline-block;
+}
+.progress {
+	margin-left: 5% !important;
+	margin-top: 5% !important;
+}
+/* contacto*/
+.contact{
+	margin-left: 45%;
+}
+
+.espacio {
+	margin-top: 20%;
+}
+
+.espacio2 {
+	margin-top: 5%;
+	padding-left: 4%;
+	padding-bottom: 15%;
+}
+.left {
+	margin-left: 25%;
+}
+.contacto {
+	border-radius: 50%;
+	border: solid 10px white;
+}
+
+.blanco {
+	color: white;
+	font-size: 3em;
+}
+
+.cv {
+	margin-left: 30%;
+	margin-bottom: 5% !important;
+}
+
+a {
+	text-decoration: none;
+	color: white !important;
+}
+
+* {
+	color: white;
+}
+
+span {
+	border: solid 2px orange;
+}
+
